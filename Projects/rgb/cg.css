@@ -1,0 +1,19 @@
+body{
+	background-color: #232323;
+}
+h1{
+	margin: auto;
+	color: grey;
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float: left;
+	margin: 1.6%;
+}
+
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}

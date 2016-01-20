@@ -1,0 +1,11 @@
+Example:
+function doSmthng(){
+	console.log("Something");
+}
+
+doSmthng();
+doSmthng();
+doSmthng();
+doSmthng();
+
+Just like c# or c++... it makes life better and code smaller.
